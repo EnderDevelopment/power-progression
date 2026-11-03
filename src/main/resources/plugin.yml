@@ -1,0 +1,10 @@
+name: PowerPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin where players start at power 5 and gain or lose power based on kills and deaths.
+api-version: "1.21"
+commands:
+  power:
+    description: Check your current power level.
+    usage: /power
